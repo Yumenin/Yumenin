@@ -1,4 +1,4 @@
-- 👋 Howdy. My name is Yumenin. I am from Philippines.
+- 👋 Howdy. My name is Yumenin. I am from the Philippines.
 
 
 <!---
