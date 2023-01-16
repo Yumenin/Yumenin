@@ -1,4 +1,4 @@
-- 👋 Howdy. My name is Yumenin. I am from the Philippines.
+![alt text](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
 
 
 <!---
